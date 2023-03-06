@@ -12,7 +12,7 @@ const Button = ({ color, text, onClick }) => {
 }
 
 Button.defaultProps = {
-	color: 'steeleblue'
+	color: 'steelblue'
 }
 
 Button.propTypes = {
