@@ -1,7 +1,9 @@
-function App() {
+import Header from './components/Header'
+
+const App = () => {
 	return (
 		<div className='container'>
-			<h1>Hello from React</h1>
+			<Header />
 		</div>
 	)
 }
