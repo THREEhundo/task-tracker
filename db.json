@@ -31,10 +31,22 @@
       "id": 9
     },
     {
-      "text": "Метеорити которие падают",
-      "day": "",
-      "reminder": false,
+      "text": "yer",
+      "day": "yer",
+      "reminder": true,
       "id": 10
+    },
+    {
+      "text": "Testing",
+      "day": "Friday",
+      "reminder": false,
+      "id": 11
+    },
+    {
+      "text": "ss",
+      "day": "ss",
+      "reminder": false,
+      "id": 12
     }
   ]
 }
