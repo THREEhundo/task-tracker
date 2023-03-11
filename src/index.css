@@ -39,10 +39,10 @@ body {
 	justify-content: center;
 	flex-direction: column;
 	min-height: 100vh;
-	background-image: url('https://unsplash.com/photos/c9OCWLka764');
+	/*background-image: url('https://unsplash.com/photos/c9OCWLka764');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: 250vh 100vh;
+	background-size: 250vh 100vh;*/
 }
 
 .container {
@@ -235,7 +235,6 @@ li:nth-child(7) {
 	width: 1px;
 	height: 1px;
 	background-color: white;
-	position: fixed;
 	animation-name: particleAnimation;
 	animation-timing-function: infinite;
 	animation-iteration-count: infinite;
